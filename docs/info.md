@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-when a and b are different sum becomes 1
+when a and b are different sum becomes one
 
 ## How to test
 
